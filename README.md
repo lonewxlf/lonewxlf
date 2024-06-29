@@ -1,6 +1,5 @@
 - 👋 Hi, I’m lonewxlf
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 Python, Lua, HTML, CSS, JavaScript, and SQL
 
 <!---
 lonewxlf/lonewxlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
